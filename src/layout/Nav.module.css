@@ -1,0 +1,51 @@
+.n {
+    display: flex;
+    padding: 30px;
+    margin: 3%;
+    align-items: center;
+}
+
+.main {
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    justify-content: center;
+    display: flex;
+}
+
+.blocks {
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    flex: 1.3;
+    list-style: none;
+}
+
+.blocks li {
+    margin: 10px; 
+}
+
+.blocks a {
+    text-decoration: none;
+}
+
+.main_btn {
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    flex: 1.3;
+}
+
+.btn {
+    display: flex;
+    margin-left: 20px; 
+    text-decoration: none; 
+    color: white;
+    padding: 12px 18px; 
+}
+
+.MR_btn {
+    background-color: rgb(255, 68, 0);
+}
+
+.C_btn {
+    background-color: rgb(27, 61, 255);
+}
